@@ -4,6 +4,8 @@
 # BACKEND
 ## The Backend was developed with Spring Boot 2.1.12 using the following configuration through http://start.spring.io:
 
+## The Database used for the project is H2 Database Engine
+
 ### Backend runs on http://localhost:8080
 
 - Project: Maven Project
