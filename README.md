@@ -52,3 +52,10 @@
   - react-router-dom
   
   - reactstra
+  
+ # Running the project options
+ ## You can run the project through a script (in the root of the project there is one for Windows and one for Linux/macOS) using any of the following command depending on the system chosen:
+ 
+ - Command for Windows: ./run.bat
+ 
+ - Command for Linux/macOs: 
