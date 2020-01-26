@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ToDo List App
 
 ## A simple web application that allows to create ToDo items.
@@ -125,5 +124,5 @@
  
  - Command for Windows: ./run.bat
  
- - Command for Linux/macOs: 
->>>>>>> c913a5d8c9009c8029c6503d9d35349be5089aa0
+ - Command for Linux/macOs: pending..
+
